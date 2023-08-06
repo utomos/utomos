@@ -1,16 +1,16 @@
 ### Hi there 👋
+# I'm Sigit Prasetyo Karisma Utomo
 
-<!--
-**utomos/utomos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![utomos's Stats](https://github-readme-stats.vercel.app/api?username=utomos&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![utomos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=utomos&theme=prussian&hide_border=true)
+
+![utomos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utomos&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+
+- 🔭 I’m currently working on PT. Imajiku Cipta Media
+- 🌱 I’m currently learning Website Framework
+- 💬 Ask me about Web & System
+- 📫 How to reach me: sigitprasetyokarismautomo@gmail.com
+- 📫 How to reach me: aku@sigitt.com
